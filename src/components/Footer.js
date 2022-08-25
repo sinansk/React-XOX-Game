@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className="fixed bottom-0 left-0 right-0 flex items-center justify-center w-screen h-9 text-slate-300 hover:text-slate-100">
+    <div className="absolute bottom-0 left-0 right-0 flex items-center justify-center w-screen h-9 text-slate-300 hover:text-slate-100">
       <a
         href="https://github.com/sinansk/react-xox-game"
         rel="noreferrer"
