@@ -25,8 +25,8 @@ const Board = () => {
       if (copyCells[i] === null) {
         copyCells[i] = player; ///player = X or O///
         setCells(copyCells);
-        soundOn && playSound.play();
         setPlayer(player === "X" ? "O" : "X");
+        soundOn && playSound.play();
       }
     }
     return;
