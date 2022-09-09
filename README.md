@@ -2,7 +2,9 @@
 
 Fimple Practicium First Case
 
-## Run project on local
+## Run project on local  
+
+##### You need to run the commands below in project directory. 
 
 ### `npm i`
 
