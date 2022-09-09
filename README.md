@@ -10,4 +10,4 @@ Fimple Practicium First Case
 
 ## You can see live on [Netlify](https://xox-game-react.netlify.app/).
 
-[![React Tic Tac Toe Game](https://github.com/sinansk/sinans.dev/blob/main/src/images/react-xox-game.PNG)](https://xox-game-react.netlify.app/)
+[![React Tic Tac Toe Game](https://github.com/sinansk/react-xox-game/blob/main/public/react-xox-game.PNG)](https://xox-game-react.netlify.app/)
